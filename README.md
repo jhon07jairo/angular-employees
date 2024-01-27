@@ -1,27 +1,75 @@
-# AppEmployees
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+# Angular App Employees
+
+This project was generated with Angular CLI version 17.0.10.
+
+
+## Production server
+
+Navigate to https://app77employees77.netlify.app/
+## Screenshots
+
+**Caja de texto vacia - se muestran todos los empleados:**
+
+![App1](https://lh3.googleusercontent.com/pw/ABLVV847cMd3cgUVlFBAKWmoqt3k9OOYvnWAmWrpYDihtiaVjLY5lOtAGCPcO8w6VBn5Z9JnEylWG6YEYg8yhKtVR45FgocIFDz71ZSaXAVjVwhdB2f3S3YFaPjcYi9-Q8d7amZlje2ANjnZ7MIn31bq-X_dPP7eQOrioQ0l2mDoWlcBZivhvQdyyw8FuDcI3QB3lbjXckKMj2F-Lg_5NKDgNyuqUACJaOBSZ2ClwmmrAOWs_--w_vo_Wevi0ssREtSkLSu9WIoTSk6Wc5wxIvvYl7ROtxo2v_bySjfBZoAjb_8SLOaPDaCdddSqO2W14RMQnZbtbFDGBnU4K2lDJ2MRq_iY7VcaIumENKvtP6jNY5pCe5RZUyiSIKj01mEpmNe2tU9_29kT0S47Lgov3r3sMuuDneAizDYYwvH4f-OESTyHReWJ26F2Y-bCJa2XIydU6Z_GntKzSK8uadfhY2GwGTssCr9GDXvxSqq-g1XBUdVwoyN1lDe1Pz1IG3N9Jdpqc8vrmd4il3Pjr5O0EiB5oGkDT9cZbyorxAlusUn-jfp7BYP4uLjCwl0GBnRdNNM4NN2D7fb8twTxYriAJt-FMiBkb3kGql0Fb071spt3LOtpRui2tmeJjHWCN0uspgAjR0mq65AwwYD3dimrTkGlBPVJrJAtoIpd3XVOhAf0fOXks49ob4bGnR3ATdgSOsv-P338G8BAiQxZppxgi8rBQQAH2xAKDeHdvGYbN7cOBMrxD8gVWQFtQ0k7iC-pq1W5e1HJVggofV6ZFWvilVqW0y5n9b8ur89S5gaHhprFQDnhQ7BrMFHulnmrFhlkN_W3BeciHUAWDxSbsOI2aQ7L97ECcqfUp6qvd-6B9fLUDTPk3fMDHbAAFnJrgOtgrT-N54uavfpTtFWs2Hy7R5FRuXiSob0X=w703-h586-s-no-gm?authuser=0) 
+
+**Se busca el detalle del empleado con el id: 1**
+
+![App2](https://lh3.googleusercontent.com/pw/ABLVV87JKtPXDumf3o5UV_cgGXBvhlY3BW0f9mTTJ7kUrfIIp8zBkbFLqqn8w5SBZbH4-OS8CEyqkvJewTbYOtTkiVLUdrcO0T3eYkH04PJR46LZUIpp7nmroKILtjm8uv6dgF41SQr6B5Q8-4mCFcMlaBkdU42ZuOvHqcRQvJqLGSvB6hkMYh60gvIpVgNFMCgjU8bjqSeGRnWcFllueinWGegt8U6kVlW20J_-UDEmI_DPmewjw26pSAc0C7ZyPPIxdoA_7su2dCe0w4vpPmtW0f9RitxhdSOOCUL_CmbVYkWKi8JuhddO-Ok0AG6b4JAkcdhmLL_yD4g8EIS6OH-a3CfEa5GG0Tz33MjL7atDsZhjk6M2QVxLCrgggs7ffG8a4SMwLh5lF_GUZw_-86Z_bY9AJfCXpauiQqWWfmaHKS38E12QL6EGmJZlvl185NtK0npPQl8sPDLxj8HTerN8Cj4JfMjEOdHpWrH9fPKRbT8lgbbhJwkGDQmVH4gEBO2lSRwdoTuiHUCjyjbbTg49GgDzAZ_trBKS5c9VuVcPpZO-LHt_hJ4C3skzIZHnjvJMD1VX0o8Cs5sUpJT6SjVzV3XrkvK4hTKW5xm1uxWtRqwdRW5p7ip1QRDKTbkmiMQHSZnN5-EUgJ9ADImhUY92jHgpTlsp02f9hCZRWlGylb8PTBkkMUD_-6Yl0wWqV8XQLcEQ9Sdf_yVAsMd9P0U0m0c41vkI7EhY_cVqiGXjP82vj4SmxxfmhcjKXxKQANQ7ZvARfdDNRm699Iyp9ar3dimljvBBQBandRpxIS_v78zf4hhRS3LQPsOaAvkiWTG4vYJbcXo8n2qFRYfjLlMevvsFwVB6nNWoa37znEBhN8onQ6d7BjMZRnVY8hMoNUz4yAGY5IXLsEajkm0ERDjxVNXjYFEb=w721-h599-s-no-gm?authuser=0) 
+
+**Cada registro con el salario anual computado:**
+
+![App3](https://lh3.googleusercontent.com/pw/ABLVV85_yH1yV4GL3E8uFGuRoBvqxXCaTeYRzPdGPTYB-ZWpw33VYuhmuUVjxVinlsogfUeHlXWpt0rzSIbLhJNtNvfpPair4RggWVO6AuFsciI-CnT0pSbvwFuQ43KGg6dFRR2ftY-X9mNrunIYTw3KIFaKEUDYumAC89BzSDMjWxpqEP9zGiAydedbXdNfFDZOg1FOzAeDqaO8f3N8dUrm6S_HBsIaz3MnafZaiOJnhUaSNYIJbYvDIOW9UEw15iBA78eHgZifg4JEHjJfMKHuQYkl98KA1e5lni7pT4o1KcVMsBnzZK8VSQ_b08bKdKyPpKYITLfQfYtmgyyR7ePj5ofkjSMRFM51g_lue9cTg2-n0VHee4UMjYnjxeXtukPtaLuuVbFc-QMbL3xEE9LnHMDqsNq6LI7XxOR1RPW8_rA_zpQm1ducNUc2A3Wzs8gfcSJYNtswaqd7osJyy-EFrPNulUgEyDyIkMI283rdKZLyj9roy8ponbVT1v47X-LGC5wOX68X2lkAATN02kk0C4h_wv7ZdlhWjdluChyAOQPzxp5203-Y1kaCgsAHf0Tp18LFXXo9Y6TIn-stlKUbJE58Mxm7G2q3_JbSBu8845hn6MkIOmFLfvBIICt6df4yrypIuq_qluGbEI4aR-eJHQO-TdCFCuahutuRfAwIOQizkdVx2-dv6YveIUNsXNfVxXUyaJSXvJ_ujXAFa-x4G3FyJY_ggADDjou5XA3BF1FHLZEflbRnJxNQ-XhMcGEhc6Rz0pkKjfxDNkj_F0m953TFCLZ_lAtPQlZAVnRtnR9X6GS9CtTs9qP7Akr_Kk7efLGehVPmjJB5-xvKRFDRDw-H-CJlDIi92qnMJu5J5PgWlbyXT_f8Jv2aUbsLdUgdaCFCD01MdvZZJNwGAvJPplOZ0feT=w711-h581-s-no-gm?authuser=0) 
+
+**Se busca el detalle del empleado con el id: 24**
+
+![App4](https://lh3.googleusercontent.com/pw/ABLVV85GPwh9Rmor8QXqOpfzlIgPuPaPRwdM6NEg2vmQlfQKYcxXH16_oN9ivXREal1NtnZoAMvEgAkBAEQ80QJW8IFOcJpZXjZat7W6_6s1Oqti0VGjZ4POs2cHbwnSf2E2m9tR08gUAyrwCRZ8OjHfBE64Ir8I58bl47rDE9h3_u0JpwLyXMVlTeb1UNgX0wExrxdiqPH6uhlEa_sBOj4mPBbO03WuC-As9UbKMJsI_pHQxxTG2YTHWuOZMnUNVFGYLWIsTnKKz3OU86r9iNM7dvvu9_CqaqThWgdplUFE564sQJ7XVTbSs5dgiJeSUTkfqicUiwjomRI9nBdc245JYyYT03beeD-npIpro1YQZB5uq70nyRv3EE72kri08op6_vAIw2OPPUgoh7ZHtIrpbfXwTs5OBgHGomhiUlgoCWJDHwpJYnw1IbIkR9rlzoKlygocqxgpEKyvc8KhroNyyZWg_EMLM4qQOyL_z839pfxmZgjxVl2vNDuAItK5ckcr6gszsQ-Ob9jKPO1EZZZWFLOyjGLMXjpyX2Pt0OKoNPhlds6Y8j5H5EUKB956uP3Aeg_8yDNx1swb9bUJqIjSjyrR6aImoDf2ywhnf-80ias3z8QGJFULV3zgCIj1KRguvgVBVSo016qDwBnHmyEw_b6n1TKQxayR3hlypeM-XMgyTywHKeadELWci5Oz_7DzDRn-KQeazXMK24XFjxpAl1_IimMnAS9ighsaV6xtmiX-awd0KgFodumJhbmrq3Ai3EtH-UIfJtshPfdnT85EemleSWmD166lZq2Lds0kB_aPdItBHZHuB2YC4aip_F3fViCYtOPyfoV4v3CQX2MbAeX0dSch-9O4rfb1ARnz6oz39AblmPwA2MVyoGAGfv8xrHqgzL9-30XiRlbUPPQHUY5ZCkbU=w693-h586-s-no-gm?authuser=0) 
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files.
+## API Consume
 
-## Code scaffolding
+http://localhost:8081/employees
+http://localhost:8081/employee/1
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Tech Stack
+
+**Proyect:** Angular CLI version 17.0.10, TailWind CSS, Switch Alert, HTML-CSS-JS, TypeScript, IDE Visual Studio Code, Netlify
+
+![css](https://lh3.googleusercontent.com/pw/ABLVV858cSqYqKjPZ660s6qatBHGbMUeE6F0Qr20asDZlfUTlSJfRMLPfpf-yAL6MZ_dMrUjwzVsj_y0WrSp6UugC2TVMmnGceyemzRGuCkKaT6vgCCntav-Lak4Mj9HP9Y_t2j7ZMB_k9a4cEQunIiPyOs-iMlFzmqLhIWJSWNBAMzJz1n_7QiXqtiRdlmSx59lXEZ-3llThybb2s_IYJ7lM5ppAG-gD6kRss4T17MWsKJSVCIt1sgOu7MRT234rxJ1d5RXYBJOEIrsfPMCe3jpKVjmUWpIERb8WpDKBdXnGsfFa-bUJc3BU_9gFiUEIgNaZ2A6k1fvpKtwxYX7j2Ttr-OKnrmcfpCwATakb384YDf4UoBHR-am3dvVHZe54XWkApcYRROOWM6HoC5I2_AmhNKu-MUch-0BJzZyBBIpDA1rIgU6eFNgqA0bYovM4wo9DiHWyfnMDp9eyVOCPz7QSpG6YMb5sm9e5U0A4sGCs482oqm0ss3USgtarkHeuHNgKnenTG6eJiY_DHFvUexH45mS_vW4FrPIPmGw9gw5cIOgWxgP4P1Ij21ONn04we3STIQ2Ya9HWxngQhA3Jj6ieg4mCpoj1Ng8v51E3nMJDAMcmc00y9u8794HN_buYSJ-fsHUHq3Es1412FbzFR0WAAbjnlC-rpOsVEE4zM8_Akza5zySxdTZlkArYi90_IFT7DZTjI4S3jliYfoMdO9TgdXiHt2D-g8540HvUwKetYHUnjz10fKcVVmcddaw-lLOCTBudq1dGXgt15xLgLKubiSwkRBl3qLyLJE9LsO7tNTaj3vfMj11NXJFvXsWeBZ7Wkt7ldQY1Lm_m_kyz2qYVD2nTLpms6uuNTmmqqONVL5yCgCVRCvt1cvVrEeqG0ubLK5rDHkL8XJF9qn3TsIBWxZMurY0=w576-h50-s-no-gm?authuser=0)  
+
+
+
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run ng build to build the project. The build artifacts will be stored in the dist/ directory.
 
+
+## Related
+
+Back-End MVC API SpringBoot Proyect:
+
+[Back-End MVC API SpringBoot Proyect README](https://github.com/jhon07jairo/apispringdemo/blob/main/README.md)
+
+
+
+## Authors
+
+- [@jhon07jairo](https://github.com/jhon07jairo/angular-employees)
+
+
+## Code scaffolding
+
+Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
+Run ng test to execute the unit tests via Karma.
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
+Run ng e2e to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
