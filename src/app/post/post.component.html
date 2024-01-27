@@ -1,0 +1,29 @@
+<div class="min-h-screen flex items-center justify-center">
+    <div class="bg-gray-200 dark:bg-slate-800 p-6 rounded-lg shadow-md w-1/2 mt-5">
+
+
+<br />
+<div class="relative overflow-x-auto">
+    <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
+        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+            <tr>
+                <th scope="col" class="px-6 py-3">ID</th>
+                <th scope="col" class="px-6 py-3">Name</th>
+                <th scope="col" class="px-6 py-3">Salary</th>
+                <th scope="col" class="px-6 py-3">Age</th>
+                <th scope="col" class="px-6 py-3">Annual Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700" *ngFor="let post of posts.data">
+                <td class="px-6 py-4">{{ post.id }}</td>
+                <td class="px-6 py-4">{{ post.employee_name }}</td>
+                <td class="px-6 py-4">{{ post.employee_salary }}</td>
+                <td class="px-6 py-4">{{ post.employee_age }}</td>
+                <td class="px-6 py-4">{{ post.employee_annual_salary }}</td>
+            </tr>
+            
+        </tbody>
+    </table>
+</div>
+
